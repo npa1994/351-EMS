@@ -1,5 +1,4 @@
 package EMS;
 
-public class Mechanic {
-
+public class Mechanic extends SupportStaff{
 }

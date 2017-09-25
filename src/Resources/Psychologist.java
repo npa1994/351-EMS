@@ -1,5 +1,5 @@
 package EMS;
 
-public class Psychologist {
+public class Psychologist extends SupportStaff {
 
 }
